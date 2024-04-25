@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mpdf/mpdf": "v8.2.2",
+        "ext-gd": "*"
+    }
+}
